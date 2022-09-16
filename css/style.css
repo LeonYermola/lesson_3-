@@ -1,0 +1,46 @@
+.header h1  {
+color: brown;
+}
+.header span{
+	color: chartreuse;
+}
+#first{
+	color: mediumspringgreen;
+}
+.lead-in {
+	color: darkturquoise;
+	}
+.lead-in h2 {
+color: darkblue;
+}
+.items a {
+	color: magenta;
+}
+.text a {
+	color: darkorange;
+}
+.item {
+	color: indigo;
+}
+h3{
+	color: lightcoral;
+}
+.list {
+}
+.items + li {
+	color: lightgreen;
+}
+.text-items ~ li span{
+color: rosybrown;
+}
+.block .block-text {
+	color: olive;
+}
+.block { color: orangered;
+}
+.block-text .text{
+	color: palegreen;
+}
+.footer{
+	color: navy;
+}
